@@ -1,6 +1,8 @@
 # fn_file_fixed_width_bgq
 
-from google.cloud import bigquery, logging, pubsub_v1, firestore
+from google.cloud import bigquery, logging
+from google.cloud import pubsub_v1
+from google.cloud import firestore
 from google.cloud.logging.resource import Resource
 from smart_open import open
 import os
