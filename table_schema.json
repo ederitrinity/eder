@@ -1,0 +1,10 @@
+[
+  	{"name": "cod_cliente", "description": "Código do cliente - concessionária", "mode": "NULLABLE", "type": "STRING"},
+	{"name": "sgm_credito", "description": "Segmento de crédito", "mode": "NULLABLE", "type": "STRING"},
+  	{"name": "lim_credito_disponivel", "description": "Limite de crédito disponível", "mode": "NULLABLE", "type": "STRING"},
+	{"name": "snl_limite_credito", "description": "Sinal positivo ou negativo do limite de crédito", "mode": "NULLABLE", "type": "STRING"},
+  	{"name": "cod_bloqueio", "description": "Código de bloqueio", "mode": "NULLABLE", "type": "STRING"},
+	{"name": "cod_cliente_controle_credito", "description": "Código do cliente reponsável pelo controle de crédito", "mode": "NULLABLE", "type": "STRING"},
+	{"name": "lim_maximo_faturamento", "description": "Limite máximo permitido para faturamento", "mode": "NULLABLE", "type": "STRING"},
+	{"name": "dat_insercao", "description": "Informa data e hora de inserção do registro|2020-07-08 20:59:48 UTC", "mode": "NULLABLE", "type": "TIMESTAMP"}
+]
